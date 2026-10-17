@@ -1,17 +1,11 @@
 # ALPHION POTENTIOSTAT
+<p align ="center">
+    <a href="https://alphaion.io/">
+        <img src="IMAGES/Potentiostat.png">
+    </a>
+</p>
 
 ## Overview
 
-Add a short description of the project here.
+This Project is a basemodel for the ALPHION POTENTIOSTAT. Which is based on the research done at IITM by Bikash Kumar Mishra
 
-## Getting Started
-
-Add setup and installation instructions here.
-
-## Usage
-
-Explain how to use the project here.
-
-## Development
-
-Add development, testing, and contribution instructions here.
