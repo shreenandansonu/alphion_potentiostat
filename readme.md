@@ -2,6 +2,7 @@
 <p align ="center">
     <a href="https://alphaion.io/">
         <img src="IMAGES/Potentiostat.png">
+        <img src="IMAGES/CV.png">
     </a>
 </p>
 
