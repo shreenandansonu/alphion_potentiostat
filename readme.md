@@ -7,5 +7,5 @@
 
 ## Overview
 
-This Project is a basemodel for the ALPHION POTENTIOSTAT. Which is based on the research done at IITM by Bikash Kumar Mishra
+This Project is a basemodel for the ALPHION POTENTIOSTAT. Which is based on the research done at IITM by Bikash Kumar Mishra and Shreenandan Sahu
 
