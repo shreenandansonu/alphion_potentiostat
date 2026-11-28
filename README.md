@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="IMAGES/Potentiostat.png" alt="ALPHION Potentiostat PCB" width="420">
-<img src="IMAGES/CV.png" alt="Cyclic voltammogram of ferri/ferrocyanide" width="420">
+<img src="IMAGES/2.5mM.jfif" alt="Cyclic voltammogram of ferri/ferrocyanide" width="420">
 
 # ALPHION Potentiostat
 
